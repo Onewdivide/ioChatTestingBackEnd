@@ -1,3 +1,5 @@
+import { test } from './api/model/model';
+
 // var express = require('express');
 // var app = express();
 // var server = require('http').createServer(app);
@@ -62,3 +64,7 @@ global.ioBAckEnd.on('connection', socket => {
     })
     // socket.emit('queryAgain',1);
 })
+// sadfsafsd
+// asdfdssaf\
+// qqqqqqqqqqqqqqqqqqqqqqqq
+var test;
