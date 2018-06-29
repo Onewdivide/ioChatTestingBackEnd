@@ -62,3 +62,10 @@ global.ioBAckEnd.on('connection', socket => {
     })
     // socket.emit('queryAgain',1);
 })
+
+
+global.ioBAckEnd.on('we want real peace',socket => {
+	global.ioBAckEnd.emit('message',{
+		'declare': 'the war'
+	})
+})
