@@ -64,9 +64,9 @@ global.ioBAckEnd.on('connection', socket => {
     })
     // socket.emit('queryAgain',1);
 })
-// sadfsafsd
-// asdfdssaf\
-// qqqqqqqqqqqqqqqqqqqqqqqq
+/*
+	LMAO LUL HAHA XAXA GGWP 
+*/
 var test;
 
 
