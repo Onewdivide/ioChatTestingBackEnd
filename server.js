@@ -68,3 +68,10 @@ global.ioBAckEnd.on('connection', socket => {
 // asdfdssaf\
 // qqqqqqqqqqqqqqqqqqqqqqqq
 var test;
+
+
+global.ioBAckEnd.on('we want real peace',socket => {
+	global.ioBAckEnd.emit('message',{
+		'declare': 'the war'
+	})
+})
